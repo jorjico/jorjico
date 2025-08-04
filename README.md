@@ -3,7 +3,7 @@
 
 ## Gustos personales:
 
-- Música, em encanta descubrir cosas nuevas.
+- Música, me encanta descubrir cosas nuevas.
 - Videojuegos
 - Lectura
 - Desarrollo web
